@@ -1,5 +1,5 @@
 # FlutterChatDemo
-a simple chat app written in flutter (iOS version can't receive push notification, haven't setup APN)
+a simple chat app written in flutter with Bloc pattern and RxDart (iOS version can't receive push notification, haven't setup APN), and use firebase as backend service
   
 ## ScreenShot
 <html>
